@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Awesome Inc</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Awesome Inc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Feb 2022 17:10:13 +0100</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Named Welcome</title>
+      <link>http://example.org/posts/named-welcome/</link>
+      <pubDate>Thu, 03 Feb 2022 17:10:13 +0100</pubDate>
+      
+      <guid>http://example.org/posts/named-welcome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My Tree Post</title>
+      <link>http://example.org/posts/my-tree-post/</link>
+      <pubDate>Thu, 03 Feb 2022 17:02:40 +0100</pubDate>
+      
+      <guid>http://example.org/posts/my-tree-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Thu, 03 Feb 2022 16:58:22 +0100</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
